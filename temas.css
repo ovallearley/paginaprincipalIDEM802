@@ -1,0 +1,78 @@
+
+ {
+
+    relleno : 0px ;
+    
+    margen : 0px ;
+    
+    }
+    
+    ul , ol {
+    
+    estilo de lista : ninguno ;
+    
+    }
+    
+    .botones  li  a {
+    
+    color de fondo : rgb ( 5 , 247 , 247 );
+    
+    color : rgb ( 0 , 0 , 0 );
+    
+    decoración de texto : ninguno ;
+    
+    relleno : 10px  10px ;
+    
+    pantalla : bloque ;
+    
+    }
+    
+    .menú {
+    
+    margen : automático ;
+    
+    ancho : 800px ;
+    
+    familia de fuentes : 'Gill Sans' , 'Gill Sans MT' , Calibri, 'Trebuchet MS' , sans-serif ;
+    
+    }
+    
+    .botones  >  li {
+    
+    flotante : izquierda ;
+    
+    }
+    
+    .menu  li: hover  >  ul {
+    
+    pantalla : bloque ;
+    
+    }
+    
+    .botones  li  a:hover {
+    
+    color de fondo : rgb ( 235 , 238 , 238 );
+    
+    }
+    
+    .menú  li  ul {
+    
+    posición : absoluta ;
+    
+    ancho mínimo : 140px ;
+    
+    pantalla : ninguno ;
+    
+    }
+    
+     
+    
+    .encabezado{
+    
+    ancho: 100%;
+    
+    altura: 150px;
+    
+     
+    
+    }
