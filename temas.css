@@ -1,0 +1,71 @@
+
+.contenedor{
+    width: 100%;
+    height: 1400px;
+    background-color: rgb(142, 31, 245);
+}
+.encabezado{
+    width:100% ;
+    height: 150px;
+    background-color: rgb(85, 113, 206);
+    text-align: center;
+    font-size: 30px;
+    
+}
+.menu{
+    width: 100%;
+    height: 97px;
+    background-color: rgb(134, 255, 134);
+    display: flex;
+}
+.contenedor2{
+    width: 100%;
+    height: 1200px;
+    background-color: azure;
+    display: flex;
+}
+.izquierda{
+    width: 20%;
+    height: 1200px;
+    background-color: rgb(243, 122, 217);
+}
+.centro{
+    width: 60%;
+    height: 1200px;
+    background-color: rgb(239, 201, 248);
+}
+.derecha{
+    width: 20%;
+    height: 1200px;
+    background-color: rgb(243, 122, 217);
+}
+.sociales{
+    width: 100px;
+    height: 95px;
+    background-color: hwb(251 48% 0%);
+    margin: 2px;
+}
+.ingles{
+    width: 100px;
+    height: 95px;
+    background-color: hwb(251 48% 0%);
+    margin: 2px;
+}
+.matematicas{
+    width: 100px;
+    height: 95px;
+    background-color: hwb(251 48% 0%);
+    margin: 2px;
+}
+.biologia{
+    width: 100px;
+    height: 95px;
+    background-color: hwb(251 48% 0%);
+    margin: 2px;
+}
+.tecnologia{
+    width: 100px;
+    height: 95px;
+    background-color: hwb(251 48% 0%);
+    margin: 2px;
+}
